@@ -1,102 +1,107 @@
 <!-- ===================================================== -->
-<!-- 🚀 SUPREME EDITION - BOOK SALES ANALYTICS SYSTEM     -->
+<!-- 🖤 DARK ELITE MODE                                  -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=📚+BOOK+SALES+ANALYTICS+SYSTEM;⚡+Enterprise+Data+Engineering+Project;📊+SQL+|+Python+|+MongoDB+|+Power+BI;🚀+Executive+Business+Dashboard" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokul2005083-source&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=52&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=BOOK+SALES+ANALYTICS+SYSTEM" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1200&color=FF0000&center=true&vCenter=true&width=1000&lines=AI+Powered+Data+Engineering;SQL+Transformation+Layer;Python+Analytics+Engine;MongoDB+Architecture;Power+BI+Executive+Intelligence" />
+
+<br><br>
+
+<a href="https://youtu.be/wOmbfDbbCaI">
+  <img src="https://img.youtube.com/vi/wOmbfDbbCaI/maxresdefault.jpg" width="95%" />
+</a>
+
+<br><br>
+
+<a href="https://youtu.be/wOmbfDbbCaI">
+  <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20CINEMATIC%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gokul2005083-source&label=Elite%20Views&color=black&style=for-the-badge" />
+
+</div>
 
 ---
 
-# 💎 PROJECT OVERVIEW
+# 🖤 EXECUTIVE SUMMARY
 
-An enterprise-grade **AI-Driven Book Sales Analytics System** transforming raw business data into executive-level insights.
+An enterprise-level analytics platform transforming raw book sales data into strategic business intelligence.
 
-This project demonstrates complete data workflow mastery — from collection to visualization.
+This project demonstrates complete ownership of the data lifecycle:
+AI-assisted data acquisition → SQL engineering → Python analytical modeling → MongoDB storage → Power BI executive dashboards.
 
 ---
 
-# 🧠 END-TO-END DATA PIPELINE
+# ⚙ SYSTEM ARCHITECTURE
 
 ```
 AI Data Collection
         ↓
-SQL Cleaning & Transformation
+SQL Data Cleaning & Optimization
         ↓
 Python (NumPy + Pandas) Analysis
         ↓
-Matplotlib Data Visualization
+Matplotlib Visualization
         ↓
-MongoDB Storage
+MongoDB Structured Storage
         ↓
-Power BI Interactive Dashboard
+Power BI Interactive Executive Dashboard
 ```
 
 ---
 
-# 🛠 TECH STACK
+# 📊 BUSINESS CAPABILITIES
+
+• Revenue trend analysis  
+• Author & genre performance tracking  
+• Regional sales intelligence  
+• Customer behaviour insights  
+• Profitability modeling  
+• Strategic forecasting  
+
+---
+
+# 🛠 TECHNOLOGY STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,excel" />
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,excel" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-FFB000?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=purple"/>
 </p>
 
 ---
 
-# 📊 KEY BUSINESS INSIGHTS
-
-✔ Revenue Trend Analysis  
-✔ Top Performing Authors & Genres  
-✔ Region-wise Sales Distribution  
-✔ Customer Behaviour Analysis  
-✔ Profit Margin Optimization  
-✔ Growth Forecast Modeling  
-
----
-
-# 📂 PROJECT STRUCTURE
+# 📁 PROJECT STRUCTURE
 
 ```
 BOOKS.pbix
-Book_Sales_Analysis_Report.pdf
 EDA.ipynb
+Book_Sales_Analysis_Report.pdf
 README.md
 ```
 
 ---
 
-# 📈 BUSINESS IMPACT
-
-• Data-driven decision making  
-• Revenue optimization  
-• Inventory forecasting  
-• Strategic growth planning  
-• Executive-level performance tracking  
-
----
-
 # 👨‍💻 AUTHOR
 
-**Gokul Raj**  
+Gokul Raj  
 GitHub: gokul2005083-source  
 
 ---
 
-# 🏆 ELITE SUMMARY
-
-Built an enterprise-grade AI-powered Book Sales Analytics pipeline integrating SQL, Python, MongoDB, and Power BI to deliver executive dashboards and actionable intelligence.
-
 <!-- ===================================================== -->
-<!-- 🚀 SUPREME EDITION END                               -->
+<!-- 🖤 DARK ELITE MODE END                               -->
 <!-- ===================================================== -->
+
